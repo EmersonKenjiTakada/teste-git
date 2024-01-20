@@ -1,0 +1,15 @@
+{
+    "name": "emers/teste-git",
+    "autoload": {
+        "psr-4": {
+            "Include": "Include/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EmersonKenjiTakada",
+            "email": "84946887+EmersonKenjiTakada@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
