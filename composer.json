@@ -2,7 +2,7 @@
     "name": "emers/teste-git",
     "autoload": {
         "psr-4": {
-            "Include": "Include/"
+            "Include": "include/"
         }
     },
     "authors": [
