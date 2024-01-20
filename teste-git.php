@@ -15,9 +15,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 ------------------------------------------------------------
 */
 
+use Includes\Core\Core;
+
 if (!defined('ABSPATH'))
 {
     exit();
 }
 
 require_once dirname(__FILE__) . '/vendor/autoload.php';
+
+new Core();
